@@ -36,7 +36,7 @@ of cooking and recipes of each menu.
 
 ## Stretch Goals
 
--As a user,I would like to see videos of cooking .
+-As a user,I would like to see video of cooking .
 
 
 
